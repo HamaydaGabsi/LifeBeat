@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#4B97AB</color> <!-- Change this to your desired primary color -->
+    <color name="colorPrimaryDark">#0000AA</color> <!-- Change this to your desired primary dark color -->
+    <color name="colorAccent">#FFFFFFFF</color> <!-- Change this to your desired accent color -->
+</resources>
