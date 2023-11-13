@@ -1,4 +1,4 @@
-\# Chronic-Disease-Prediction-using-Neural-Networ This example will
+# Chronic-Disease-Prediction-using-Neural-Networ This example will
 focus on predicting heart disease using neural networks. Based on
 attributes such as blood pressure, cholestoral levels, heart rate, and
 other characteristic attributes, patients will be classified according
@@ -10,10 +10,10 @@ We used some common Python libraries, such as pandas, numpy, and
 matplotlib. Furthermore, for the machine learning side of this project,
 we used sklearn and keras.
 
-\<h3\>The dataset is available through the University of California,
-Irvine Machine learning repository.\</h3\> Here is the URL:
+<h3>The dataset is available through the University of California,
+Irvine Machine learning repository.</h3> Here is the URL:
 
-http:////archive.ics.uci.edu/ml/datasets/Heart+Disease
+http://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 This dataset contains patient data concerning heart disease diagnosis
 that was collected at several locations around the world. There are 76
